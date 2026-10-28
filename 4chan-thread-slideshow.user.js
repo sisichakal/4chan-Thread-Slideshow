@@ -3,6 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.3
 // @description  Add slideshow functionality to 4chan threads and 4archive
+// @updateURL    https://raw.githubusercontent.com/sisichakal/4chan-Thread-Slideshow/main/4chan-thread-slideshow.user.js
+// @downloadURL  https://raw.githubusercontent.com/sisichakal/4chan-Thread-Slideshow/main/4chan-thread-slideshow.user.js
 // @author       You
 // @match        https://boards.4chan.org/*/thread/*
 // @match        https://4archive.org/board/*/thread/*
