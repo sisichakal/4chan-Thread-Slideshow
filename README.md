@@ -2,7 +2,7 @@
 
 Userscript turning 4chan and 4archive threads into a keyboard-driven fullscreen slideshow.
 
-[![Userscript](https://img.shields.io/badge/userscript-v1.3-blue)](4chan-thread-slideshow.user.js) [![No dependencies](https://img.shields.io/badge/dependencies-none-lightgrey)](#how-it-works)
+[![Userscript](https://img.shields.io/badge/userscript-v1.3-blue)](4chan-thread-slideshow.user.js) [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE) [![No dependencies](https://img.shields.io/badge/dependencies-none-lightgrey)](#how-it-works)
 
 Threads bury their images behind thumbnails and endless scrolling. This script plays them as a fullscreen slideshow instead.
 
@@ -31,3 +31,7 @@ A single `.user.js` file of plain DOM code: no build step, no bundler, no extern
 ## Known limitations
 
 - Selectors track the site's current markup and will need updating when it changes.
+
+## License
+
+[MIT](LICENSE) — use it, change it, redistribute it, no strings attached.
